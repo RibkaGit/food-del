@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
-          <p>Lorem Ipsum is simple dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.when an unknown printer took a gallery of type and scramebled it to make a type speimen book.</p>
+          <p>Hagere is simple dummy text of the printing and typesetting industry.Hagere has been the industry's standard dummy text ever since the 1500s.when an unknown printer took a gallery of type and scramebled it to make a type speimen book.</p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
@@ -30,13 +30,13 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>GET IN TOUCH</h2>
           <ul>
-            <li>+1-212-456-7890</li>
-            <li>contact@tomato.com</li>
+            <li>+251907192716</li>
+            <li>contact@hagere.com</li>
           </ul>
         </div>
        </div>
        <hr />
-       <p className='footer-copy-right'>Copyright 2024 tomato.com - All Right Reserved.</p>
+       <p className='footer-copy-right'>Copyright 2025 hagere.com - All Right Reserved.</p>
       
     </div>
   );
